@@ -1,2 +1,6 @@
 # Recipe App Project
-A recipe application built with HTML, SASS, and JavaScript (ES6+) that allows users to search, view, bookmark, and upload recipes. This project follows the MVC architecture and uses the Forkify API to fetch real recipes.
+This is a recipe application where you can search for a variety of recipes. To test the app, try searching for keywords such as "pasta" or "pizza" to see the results.
+
+Feel free to explore different recipes, bookmark your favorites, and even add your own recipes!
+Link:https://recipeapp-afonsomassunari.netlify.app/#684b94355817030013e57ae0
+
