@@ -19,35 +19,22 @@ Follow the steps below to run the project on your machine.
 2. Install the dependencies</br>
 `npm install`</br>
 
-💻 Run the App in Development Mode
-To start the development server and open the app in your browser:
+### 💻 Run the App in Development Mode
+To start the app in development mode, run:</br>
+`npm start`</br>
+This uses Parcel to serve the index.html file and automatically reload the page on changes.</br>
 
-bash
-Copy
-Edit
-npm start
-This uses Parcel to serve the index.html file and automatically reload the page on changes.
+### 🛠️ Build for Production
+To generate an optimized production build:</br>
+`npm run build`</br>
 
-🛠️ Build for Production
-To generate an optimized production build:
+The final files will be output to the dist/ folder.</br>
 
-bash
-Copy
-Edit
-npm run build
-The final files will be output to the dist/ folder.
-
-🧪 Technologies Used
-JavaScript (ES6+)
-
-Sass
-
-Parcel
-
-Core-JS
-
-Regenerator-runtime
-
-Fracty
-
-Fractional
+## 🧪 Technologies Used
+- JavaScript (ES6+)
+- Sass
+- Parcel
+- Core-JS
+- Regenerator-runtime
+- Fracty
+- Fractional
