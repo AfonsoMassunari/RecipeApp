@@ -39,3 +39,5 @@ The final files will be output to the dist/ folder.</br>
 - Regenerator-runtime
 - Fracty
 - Fractional
+- html
+- css
