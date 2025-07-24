@@ -6,37 +6,18 @@ Feel free to explore different recipes, bookmark your favorites, and even add yo
 </br></br>
 This project is based on the course Javascript Zero to Expert.
 
-🚀 Getting Started
-This is a recipe search application built with JavaScript, Sass, and Parcel.
+## 🚀 Getting Started
 
-📦 Installation
-Clone the repository:
+Follow the steps below to run the project on your machine.
 
-bash
-Copy
-Edit
+### 📦 Installation
+
+1. Clone the repository:
 git clone https://github.com/your-username/forkify.git
 cd forkify
-Install the dependencies:
 
-bash
-Copy
-Edit
+2. Install the dependencies:
 npm install
-💻 Running the Project in Development
-To start the development server:
+3. ### 💻 Run the App in Development Mode
 
-bash
-Copy
-Edit
-npm start
-This will run the app using Parcel and open index.html in your browser.
-
-🛠️ Building for Production
-To generate the production build:
-
-bash
-Copy
-Edit
-npm run build
-The optimized files will be placed in the dist/ folder.
+To start the app in development mode, run:
