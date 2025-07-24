@@ -17,7 +17,7 @@ git clone https://github.com/your-username/forkify.git
 cd forkify
 
 2. Install the dependencies:
-npm install
+Use the command `npm install` to install the dependencies.
 3. ### 💻 Run the App in Development Mode
 
 To start the app in development mode, run:
