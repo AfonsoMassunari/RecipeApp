@@ -12,12 +12,12 @@ Follow the steps below to run the project on your machine.
 
 ### 📦 Installation
 
-1. **Clone the repository**
-`git clone https://github.com/your-username/forkify.git`
-`cd forkify`
+1. **Clone the repository**</br>
+`git clone https://github.com/your-username/forkify.git`</br>
+`cd forkify`</br>
 
-2. Install the dependencies
-`npm install`
+2. Install the dependencies</br>
+`npm install`</br>
 
 💻 Run the App in Development Mode
 To start the development server and open the app in your browser:
